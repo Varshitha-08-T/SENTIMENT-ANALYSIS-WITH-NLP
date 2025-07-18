@@ -97,4 +97,6 @@ Output_task2.1.jpg,Output_task_2.2.jpg: A screenshot showing the evaluation metr
 
 **OUTPUT:**
 
+![Image](https://github.com/user-attachments/assets/e1c25d11-e021-45f1-acdb-54915ff997b2)
+
 
