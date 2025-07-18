@@ -99,4 +99,6 @@ Output_task2.1.jpg,Output_task_2.2.jpg: A screenshot showing the evaluation metr
 
 ![Image](https://github.com/user-attachments/assets/e1c25d11-e021-45f1-acdb-54915ff997b2)
 
+![Image](https://github.com/user-attachments/assets/7ea92e62-bcef-47b1-a278-4f6729732e3b)
+
 
